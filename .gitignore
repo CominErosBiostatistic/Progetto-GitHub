@@ -1,0 +1,9 @@
+# Local reference code, not for publication
+Codici di esempio/
+
+# Patient-level data and SAS output must never reach the repository
+*.sas7bdat
+*.sas7bcat
+*.sas7bndx
+*.log
+*.lst
