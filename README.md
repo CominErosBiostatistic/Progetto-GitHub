@@ -84,3 +84,7 @@ Always check variable format.
 
 Patient-level data must never be committed. The [`.gitignore`](.gitignore) excludes SAS datasets,
 logs and listings.
+
+## License
+
+Released under the [MIT License](LICENSE).
